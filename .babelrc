@@ -1,0 +1,7 @@
+{
+    "presets": [
+      "env",
+      "react"
+    ], 
+    SKIP_PREFLIGHT_CHECK=true 
+  }
